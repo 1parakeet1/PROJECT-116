@@ -32,7 +32,7 @@ function setup(){
 
 function draw(){
     image(video, 0, 0, 300, 300);
-    image(mustache, nosex-15, nosey+1, 100, 100);
+    image(mustache, nosex-15, nosey-5, 75, 75);
 }
 
 
